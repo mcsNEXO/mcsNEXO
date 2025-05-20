@@ -26,14 +26,14 @@ Here are some of the things I’ve built:
 - 🧪 **Next.js Store** – New version of the store using Next.js and Tailwind (paused)
 - 💬 **Chat App** – Real-time chat based on WebSocket and Express
 - ✅ **Task List** – Simple, fast and clear task manager
-- 🌐 **Marketplace online** – I am currently working on a real marketplace platform related to music records available under the domain: [**vinylite.pl**]
+- 🌐 **Marketplace online** – I am currently working on a real marketplace platform related to music records available under the domain: [**vinylite.pl**](https://vinylite.pl)
 
 ---
 
 ### 📈 What I’m focused on now
 
 I create a modern marketplace platform, focusing on frontend architecture using Next.js - with an emphasis on performance, scalability and a polished user interface.
-The site is available at: [**vinylite.pl**]
+The site is available at: (https://vinylite.pl)
 
 ---
 
